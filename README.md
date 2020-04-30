@@ -29,6 +29,13 @@ In order to reproduce the dataset accurately, we recommend that you use the arch
 ```
 
 
+
+In order to reproduce the dataset accurately, we recommend that you use the archived version of the study guide from https://archive.org, with the following timestamp:
+```
+20191015
+```
+
+
 2) Books\
 We will provide a zipped file contained the original book text from Project Gutenberg, as the license is in the public domain. We have spent a good amount of effort manually cleaning up the text, and standardizing chapter titles and headings, so we hope this will be useful to the community.
 
