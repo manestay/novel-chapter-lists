@@ -21,20 +21,10 @@ Adventures of Huckleberry Finn.Chapter 35
 
 In this case, one of the study guide sources does not have summaries for each of the individual chapters, but instead has a single aggregated summary of the three chapters. In cases such as this, we combine the individual chapter summaries from the other sources to created aggregated summaries, so that we have multiple references. Note that the val.txt file also contains the individual chapter summary instances from the other sources.
 
-
-
 In order to reproduce the dataset accurately, we recommend that you use the archived version of the online study guides from https://archive.org, with the following timestamp:
 ```
 20191015
 ```
-
-
-
-In order to reproduce the dataset accurately, we recommend that you use the archived version of the study guide from https://archive.org, with the following timestamp:
-```
-20191015
-```
-
 
 2) Books\
 We will provide a zipped file contained the original book text from Project Gutenberg, as the license is in the public domain. We have spent a good amount of effort manually cleaning up the text, and standardizing chapter titles and headings, so we hope this will be useful to the community.
