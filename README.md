@@ -1,5 +1,7 @@
-# novel-chapter-dataset
-Novel Chapter Dataset
+# novel-chapter-lists
+Novel Chapter Lists
+
+UPDATE 13 Nov 2020: after jumping through many legal hoops, we are planning on releasing the scraping scripts on Github soon. This will be released under an open-source license. Stay tuned for the updated repository.
 
 This repository contains data files related to the paper
 Exploring Content Selection in Summarization of Novel Chapters. Faisal Ladhak, Bryan Li, Yaser Al-Onaizan, and Kathleen McKeown. ACL 2020 (short).
